@@ -1,9 +1,3 @@
+# Exclude all __pycache__ directories in all folders
 __pycache__/
-day7_hangman/__pycache__/
-day8_ceaser_cipher/__pycache__/
-day9_dictionnaries/__pycache__/
-day12_scope/__pycache__/
-day14_higherlower/__pycache__/
-day16_oop/__pycache__/
-day17_classes/__pycache__/
-day20_21_snakegame/__pycache__/
+**/__pycache__/
