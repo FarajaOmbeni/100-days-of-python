@@ -1,3 +1,4 @@
 # Exclude all __pycache__ directories in all folders
 __pycache__/
 **/__pycache__/
+env/
